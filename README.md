@@ -1,2 +1,2 @@
-# assignments
-from basics
+# Assignments
+its beginning of my basics
